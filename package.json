@@ -1,0 +1,40 @@
+{
+  "name": "@vikasdeshmukh/spriteforge",
+  "version": "0.1.0",
+  "description": "Prompt in, game-ready sprite sheets out. Dresses a base-body sprite template and builds tilesets with Google Gemini image generation.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "bin": {
+    "spriteforge": "bin/spriteforge.js"
+  },
+  "files": [
+    "src",
+    "bin",
+    "scripts",
+    "template",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18.17"
+  },
+  "scripts": {
+    "test": "node --test",
+    "build:template": "node scripts/build-template.js"
+  },
+  "keywords": [
+    "sprite",
+    "spritesheet",
+    "pixel-art",
+    "gemini",
+    "game-assets",
+    "tileset"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@google/genai": "^2.31.0",
+    "sharp": "^0.35.5"
+  }
+}

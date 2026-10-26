@@ -1,0 +1,27 @@
+# dependencies
+node_modules/
+
+# spriteforge generation cache (paid API results, can be large)
+.spriteforge-cache/
+
+# secrets
+.env
+.env.*
+!.env.example
+
+# default CLI output folder and local test output
+assets/
+out/
+*.tgz
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

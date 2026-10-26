@@ -1,0 +1,210 @@
+{
+  "version": 1,
+  "cell": {
+    "w": 48,
+    "h": 48
+  },
+  "baseline": 44,
+  "columns": 13,
+  "rows": 54,
+  "designFrame": {
+    "row": 0,
+    "col": 0
+  },
+  "groups": [
+    {
+      "id": "anim01",
+      "name": "anim01",
+      "startRow": 0,
+      "rows": 4,
+      "frames": 7,
+      "fps": 8,
+      "rowNames": [
+        "row0",
+        "row1",
+        "row2",
+        "row3"
+      ]
+    },
+    {
+      "id": "anim02",
+      "name": "anim02",
+      "startRow": 4,
+      "rows": 4,
+      "frames": 8,
+      "fps": 8,
+      "rowNames": [
+        "row0",
+        "row1",
+        "row2",
+        "row3"
+      ]
+    },
+    {
+      "id": "anim03",
+      "name": "anim03",
+      "startRow": 8,
+      "rows": 4,
+      "frames": 9,
+      "fps": 8,
+      "rowNames": [
+        "row0",
+        "row1",
+        "row2",
+        "row3"
+      ]
+    },
+    {
+      "id": "anim04",
+      "name": "anim04",
+      "startRow": 12,
+      "rows": 4,
+      "frames": 6,
+      "fps": 8,
+      "rowNames": [
+        "row0",
+        "row1",
+        "row2",
+        "row3"
+      ]
+    },
+    {
+      "id": "anim05",
+      "name": "anim05",
+      "startRow": 16,
+      "rows": 4,
+      "frames": 13,
+      "fps": 8,
+      "rowNames": [
+        "row0",
+        "row1",
+        "row2",
+        "row3"
+      ]
+    },
+    {
+      "id": "anim06",
+      "name": "anim06",
+      "startRow": 20,
+      "rows": 2,
+      "frames": 6,
+      "fps": 8,
+      "rowNames": [
+        "row0",
+        "row1"
+      ]
+    },
+    {
+      "id": "anim07",
+      "name": "anim07",
+      "startRow": 22,
+      "rows": 4,
+      "frames": 2,
+      "fps": 8,
+      "rowNames": [
+        "row0",
+        "row1",
+        "row2",
+        "row3"
+      ]
+    },
+    {
+      "id": "anim08",
+      "name": "anim08",
+      "startRow": 26,
+      "rows": 4,
+      "frames": 5,
+      "fps": 8,
+      "rowNames": [
+        "row0",
+        "row1",
+        "row2",
+        "row3"
+      ]
+    },
+    {
+      "id": "anim09",
+      "name": "anim09",
+      "startRow": 30,
+      "rows": 4,
+      "frames": 3,
+      "fps": 8,
+      "rowNames": [
+        "row0",
+        "row1",
+        "row2",
+        "row3"
+      ]
+    },
+    {
+      "id": "anim10",
+      "name": "anim10",
+      "startRow": 34,
+      "rows": 4,
+      "frames": 3,
+      "fps": 8,
+      "rowNames": [
+        "row0",
+        "row1",
+        "row2",
+        "row3"
+      ]
+    },
+    {
+      "id": "anim11",
+      "name": "anim11",
+      "startRow": 38,
+      "rows": 4,
+      "frames": 8,
+      "fps": 8,
+      "rowNames": [
+        "row0",
+        "row1",
+        "row2",
+        "row3"
+      ]
+    },
+    {
+      "id": "anim12",
+      "name": "anim12",
+      "startRow": 42,
+      "rows": 4,
+      "frames": 2,
+      "fps": 8,
+      "rowNames": [
+        "row0",
+        "row1",
+        "row2",
+        "row3"
+      ]
+    },
+    {
+      "id": "anim13",
+      "name": "anim13",
+      "startRow": 46,
+      "rows": 4,
+      "frames": 13,
+      "fps": 8,
+      "rowNames": [
+        "row0",
+        "row1",
+        "row2",
+        "row3"
+      ]
+    },
+    {
+      "id": "anim14",
+      "name": "anim14",
+      "startRow": 50,
+      "rows": 4,
+      "frames": 6,
+      "fps": 8,
+      "rowNames": [
+        "row0",
+        "row1",
+        "row2",
+        "row3"
+      ]
+    }
+  ]
+}
