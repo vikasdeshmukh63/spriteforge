@@ -1,5 +1,17 @@
 {
   "name": "@vikasdeshmukh/spriteforge",
+  "author": "vikas deshmukh vikasdeshmukh63@gmail.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikasdeshmukh63/spriteforge.git"
+  },
+  "homepage": "https://github.com/vikasdeshmukh63/spriteforge#readme",
+  "bugs": {
+    "url": "https://github.com/vikasdeshmukh63/spriteforge/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "0.1.0",
   "description": "Prompt in, game-ready sprite sheets out. Dresses a base-body sprite template and builds tilesets with Google Gemini image generation.",
   "type": "module",
@@ -22,7 +34,8 @@
   },
   "scripts": {
     "test": "node --test",
-    "build:template": "node scripts/build-template.js"
+    "build:template": "node scripts/build-template.js",
+    "prepublishOnly": "npm test"
   },
   "keywords": [
     "sprite",
