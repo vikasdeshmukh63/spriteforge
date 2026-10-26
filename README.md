@@ -3,7 +3,7 @@
 Prompt in, game-ready sprite sheet out. Uses Google Gemini image generation.
 
 ```js
-import { SpriteForge } from "spriteforge";
+import { SpriteForge } from "spriteforge-ai";
 
 const forge = new SpriteForge({ apiKey: process.env.GEMINI_API_KEY });
 

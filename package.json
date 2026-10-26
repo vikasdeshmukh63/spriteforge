@@ -1,5 +1,5 @@
 {
-  "name": "spriteforge",
+  "name": "spriteforge-ai",
   "author": "vikas deshmukh vikasdeshmukh63@gmail.com",
   "repository": {
     "type": "git",
@@ -20,7 +20,7 @@
     ".": "./src/index.js"
   },
   "bin": {
-    "spriteforge": "bin/spriteforge.js"
+    "spriteforge-ai": "bin/spriteforge.js"
   },
   "files": [
     "src",
